@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    class = "com.chus.clua.citybikes.presentation.features.networkslist.NetWorkSearchView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:closeIcon="@drawable/ic_close"
+    app:queryHint="@string/search_hint"
+    />

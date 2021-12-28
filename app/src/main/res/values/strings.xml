@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">City Bikes</string>
+
+    <!-- shared -->
+    <string name="ok">Ok</string>
+
+    <!-- search view -->
+    <string name="search">Search</string>
+    <string name="search_hint">Search…</string>
+
+    <!-- networks list activity -->
+    <string name="location_request_message">"We need to access location to provide you some services…"</string>
+    <string name="location_request_denied">Enable location permission for better experience.</string>
+    <string name="content_empty_list_title">An error has occurred</string>
+    <string name="empty_list_error">there\'s no results :(</string>
+
+    <!-- map activity -->
+    <string name="free_bikes_label" formatted="false">Free bikes: %d</string>
+    <string name="empty_slots_label" formatted="false">Empty slots: %d</string>
+
+</resources>
